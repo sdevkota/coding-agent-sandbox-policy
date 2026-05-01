@@ -21,10 +21,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/coding-agent-sandbox-policy.git"
+    "url": "https://github.com/sdevkota/coding-agent-sandbox-policy.git"
   },
   "bugs": {
-    "url": "https://github.com/YOUR_GITHUB_USERNAME/coding-agent-sandbox-policy/issues"
+    "url": "https://github.com/sdevkota/coding-agent-sandbox-policy/issues"
   },
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/coding-agent-sandbox-policy/"
+  "homepage": "https://sdevkota.github.io/coding-agent-sandbox-policy/"
 }
